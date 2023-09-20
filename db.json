@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "_tkZq8ob5DEcXTGNOf7sB",
+      "content": "Learn redux",
+      "complete": false
+    },
+    {
+      "id": "r3smLil7YdDvU0rSEaLr_",
+      "content": "Make a mern stack project",
+      "complete": false
+    },
+    {
+      "id": "Zp94EcYhi1ESAtWHBhKy-",
+      "content": "Discuss problem statement on SIh",
+      "complete": false
+    },
+    {
+      "id": "2ox2psVYpMEDdhqzYv5Y6",
+      "content": "Talk to father and mother",
+      "complete": false
+    }
+  ]
+}
